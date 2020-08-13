@@ -29,6 +29,13 @@ The objective of this project is to analyze the reasonableness of transactions o
 ## Methodologies
 * Import data into Power BI
 * Perform data cleaning and data visualization to identify outliers of transactions and assess their reasonableness
+  * Identify most important categories
+  * Identify transactions above a certain threshold
+  * Identify small amounts and even amounts
+  * Analyze transactions with specific cities/merchants
+  * Determine tax rate per transaction
+  * Determine businesses to negotiate a discount with
+  * Explore categories
 * Compile a report including findings and outliers and communicate results to Controller
 
 ## Results
